@@ -12,7 +12,7 @@ Using np.array(), create an array for the given matrix.
 ### Step 3: 
 Using the np.linalg.eig(), we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 4: 
-Print both the resultant values usinf .format() and end the program.
+Print both the resultant values using .format() and end the program.
 
 ## Program:
 ~~~
